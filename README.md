@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-A Tic-Tac-Toe game built with React. Includes move history so you can jump back to any previous board state.
+A Tic-Tac-Toe game built with React to understand React concepts including elements, components, props, and state. 
 
 ## Install & Run
 
@@ -11,8 +11,5 @@ npm start
 
 Opens at `http://localhost:3000`.
 
-## Build for production
 
-```bash
-npm run build
 ```
