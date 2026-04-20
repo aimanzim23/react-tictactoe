@@ -11,5 +11,3 @@ npm start
 
 Opens at `http://localhost:3000`.
 
-
-```
